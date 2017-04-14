@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19433" started-at="2017-04-14T07:49:38Z" finished-at="2017-04-14T07:49:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19433" started-at="2017-04-14T07:49:38Z" finished-at="2017-04-14T07:49:57Z">
+      <class name="mavenTestNG.TestA">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mavenTestNG.TestA@4c70fda8]" name="setUp" is-config="true" duration-ms="13383" started-at="2017-04-14T13:19:38Z" finished-at="2017-04-14T13:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGooglePageTitleInFirefox()[pri:0, instance:mavenTestNG.TestA@4c70fda8]" name="testGooglePageTitleInFirefox" duration-ms="3163" started-at="2017-04-14T13:19:51Z" finished-at="2017-04-14T13:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInFirefox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mavenTestNG.TestA@4c70fda8]" name="tearDown" is-config="true" duration-ms="2884" started-at="2017-04-14T13:19:54Z" finished-at="2017-04-14T13:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mavenTestNG.TestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

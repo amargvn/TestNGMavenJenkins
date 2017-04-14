@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16191" started-at="2017-04-14T07:57:46Z" finished-at="2017-04-14T07:58:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16191" started-at="2017-04-14T07:57:46Z" finished-at="2017-04-14T07:58:03Z">
+      <class name="mavenTestNG.TestA">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mavenTestNG.TestA@783e6358]" name="setUp" is-config="true" duration-ms="5717" started-at="2017-04-14T13:27:54Z" finished-at="2017-04-14T13:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGooglePageTitleInFirefox()[pri:0, instance:mavenTestNG.TestA@783e6358]" name="testGooglePageTitleInFirefox" duration-ms="1829" started-at="2017-04-14T13:27:59Z" finished-at="2017-04-14T13:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInFirefox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mavenTestNG.TestA@783e6358]" name="tearDown" is-config="true" duration-ms="1379" started-at="2017-04-14T13:28:01Z" finished-at="2017-04-14T13:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mavenTestNG.TestA -->
+      <class name="mavenTestNG.TestB">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mavenTestNG.TestB@77b52d12]" name="setUp" is-config="true" duration-ms="4281" started-at="2017-04-14T13:27:46Z" finished-at="2017-04-14T13:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGooglePageTitleInChrome()[pri:0, instance:mavenTestNG.TestB@77b52d12]" name="testGooglePageTitleInChrome" duration-ms="1819" started-at="2017-04-14T13:27:51Z" finished-at="2017-04-14T13:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGooglePageTitleInChrome -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mavenTestNG.TestB@77b52d12]" name="tearDown" is-config="true" duration-ms="1149" started-at="2017-04-14T13:27:53Z" finished-at="2017-04-14T13:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mavenTestNG.TestB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
